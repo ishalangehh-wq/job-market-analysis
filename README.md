@@ -11,6 +11,17 @@ This project analyzes a dataset of 12,000+ job records to identify:
 - Pandas
 - Matplotlib
 
+## Visualizations
+
+### Top Skills
+![Top Skills](top_skills.png)
+
+### Salary Analysis
+![Salary Analysis](salary_graph.png)
+
+### Jobs by Location
+![Location Pie Chart](location_pie_chart.png)
+
 ## Key Analysis
 - Skills analysis using split() and value_counts()
 - Salary analysis using groupby() and mean()
