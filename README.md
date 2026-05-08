@@ -17,10 +17,10 @@ This project analyzes a dataset of 12,000+ job records to identify:
 ![Top Skills](Top_skills.png)
 
 ### Salary Analysis
-![Salary Analysis](Average_salary_by_job_title.png)
+![Salary Analysis](Average_salary_by_job_title.pn)
 
 ### Jobs by Location
-![Location Pie Chart](Jobs_by_Location.png)
+![Location Pie Chart](https://github.com/ishalangehh-wq/job-market-analysis/blob/main/Jobs%20by%20Location.png)
 
 ## Key Analysis
 - Skills analysis using split() and value_counts()
