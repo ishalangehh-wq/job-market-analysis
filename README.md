@@ -14,13 +14,13 @@ This project analyzes a dataset of 12,000+ job records to identify:
 ## Visualizations
 
 ### Top Skills
-![Top Skills](top_skills.png)
+![Top Skills](Top_skills.png)
 
 ### Salary Analysis
-![Salary Analysis](salary_graph.png)
+![Salary Analysis](Average_salary_by_job_title.png)
 
 ### Jobs by Location
-![Location Pie Chart](location_pie_chart.png)
+![Location Pie Chart](jobs_by_Location.png)
 
 ## Key Analysis
 - Skills analysis using split() and value_counts()
