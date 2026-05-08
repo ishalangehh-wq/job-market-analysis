@@ -17,7 +17,7 @@ This project analyzes a dataset of 12,000+ job records to identify:
 ![Top Skills](Top_skills.png)
 
 ### Salary Analysis
-![Salary Analysis](Average_salary_by_job_title.pn)
+![Salary Analysis](https://github.com/ishalangehh-wq/job-market-analysis/blob/main/Average%20salary%20by%20job%20title.png)
 
 ### Jobs by Location
 ![Location Pie Chart](https://github.com/ishalangehh-wq/job-market-analysis/blob/main/Jobs%20by%20Location.png)
