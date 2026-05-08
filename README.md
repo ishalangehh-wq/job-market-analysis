@@ -20,7 +20,7 @@ This project analyzes a dataset of 12,000+ job records to identify:
 ![Salary Analysis](Average_salary_by_job_title.png)
 
 ### Jobs by Location
-![Location Pie Chart](jobs_by_Location.png)
+![Location Pie Chart](Jobs_by_Location.png)
 
 ## Key Analysis
 - Skills analysis using split() and value_counts()
