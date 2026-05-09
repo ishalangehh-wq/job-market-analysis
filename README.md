@@ -77,7 +77,7 @@ SQL was used to analyze:
 
 ## Project Structure
 
-```text
+```
 job-market-analysis
 │
 ├── analysis.py
