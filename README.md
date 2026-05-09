@@ -10,12 +10,15 @@ This project analyzes a dataset of 12,000+ job records to identify:
 The project was built using Python, SQL, Pandas, and Matplotlib for data analysis and visualization.
 
 ---
+## Tableau Dashboard
 
+![Tableau Dashboard](tableau_dashboard.png)
 ## Tools & Technologies
 - Python
 - Pandas
 - SQL
 - Matplotlib
+- tableau
 
 ---
 
