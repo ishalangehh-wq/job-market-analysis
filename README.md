@@ -77,17 +77,7 @@ SQL was used to analyze:
 
 ## Project Structure
 
-```
-job-market-analysis
-│
-├── analysis.py
-├── queries.sql
-├── README.md
-├── job_market_dataset.csv
-├── top_skills.png
-├── salary_graph.png
-└── location_pie_chart.png
-```
+![Project Structure](project_structure.png)
 
 ---
 
