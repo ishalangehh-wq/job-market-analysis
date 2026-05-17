@@ -11,11 +11,6 @@ This project analyzes **12,000+ job records** to uncover:
 
 ---
 
-## 🔗 Live Dashboard
-👉 [View Tableau Public Dashboard](tableau_dashboard.png)
-
----
-
 ## 🔍 Key Insights
 - **Python and SQL** were the most in-demand skills across all roles
 - **Bangalore and Delhi** led all cities in hiring volume
@@ -71,4 +66,6 @@ Analysis covered:
 
 ---
 
-## 📂 Project Structure
+## 💡 Skills Demonstrated
+Data Analysis · SQL Querying · Data Visualization ·
+Exploratory Data Analysis (EDA) · Python Programming
