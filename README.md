@@ -7,7 +7,7 @@ This project analyzes **12,000+ job records** to uncover:
 - Top hiring locations across India
 - Job role distribution and market demand
 
-**Tools Used:** Python · Pandas · SQL · Matplotlib · Tableau Public
+**Tools Used:** Python · Pandas · SQL · Matplotlib · Tableau 
 
 ---
 
@@ -29,6 +29,11 @@ This project analyzes **12,000+ job records** to uncover:
 
 ### Jobs by Hiring Location
 ![Location Pie Chart](https://github.com/ishalangehh-wq/job-market-analysis/blob/main/Jobs%20by%20Location.png)
+
+---
+
+## Tableau Dashboard
+![Tableau Dashboard](tableau_dashboard.png)
 
 ---
 
