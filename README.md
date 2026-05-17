@@ -11,6 +11,11 @@ This project analyzes **12,000+ job records** to uncover:
 
 ---
 
+## Project Structure
+![Project Structure](project_structure.png)
+
+---
+
 ## 🔍 Key Insights
 - **Python and SQL** were the most in-demand skills across all roles
 - **Bangalore and Delhi** led all cities in hiring volume
